@@ -8,7 +8,7 @@ A casual creator created using the Processing language.
 
 2. How do you keep them engaged and excited to create? 
 
-    - I keep the users engaged using color changing elements as well as providing the user fome time to interact with the flowers before the fall to the bottom of the screen. 
+    - I keep the users engaged using color changing elements as well as multiple sized flowers and varying speeds at which the flowers and other elements move. 
 
 3. How do you help them make something they are proud to share?
 
