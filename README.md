@@ -16,7 +16,7 @@ A casual creator created using the Processing language.
 
 4. Sketch of goal for the end result.
     
-    ![An image of flowers with stems suspended in the air along with fallen petals and flower buds on the base of the 700 by 500 rectangular frame.](/images/flowe-garden.jpeg)
+    ![An image of flowers with stems suspended in the air along with fallen petals and flower buds on the base of the 700 by 500 rectangular frame.](images/flower-garden.jpeg)
 
 5. Link to the interactive site. 
 
