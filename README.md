@@ -20,7 +20,7 @@ A casual creator created using the Processing language.
 
 5. Link to the interactive site. 
 
-    -  "The Flower Garden" by Ya'Kuana Davis http://www.openprocessing.org/sketch/1056685Licensed under Creative Commons Attribution ShareAlikehttps://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
+    -  "The Flower Garden" by Ya'Kuana Davis http://www.openprocessing.org/sketch/1056685Licensed under Creative Commons Attribution ShareAlike https://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
 
 ## Why is this system meaningful to me?
 
